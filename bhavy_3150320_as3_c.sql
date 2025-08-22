@@ -1,5 +1,5 @@
 
--- Name: Bhavy Sachani
+-- Car Rental Platform
 
 --------------------------------
 CREATE SCHEMA bhavy_3150320_as3_c
