@@ -1,10 +1,10 @@
--- ACS-3902 Assignment 3 Part C
+
 -- Name: Bhavy Sachani
--- St#: 3150320
+
 --------------------------------
 CREATE SCHEMA bhavy_3150320_as3_c
 
-SET SCHEMA 'bhavy_3150320_as3_c';  -- change the schema name to match your own
+SET SCHEMA 'bhavy_3150320_as3_c';  
 
 
 -- Table and Constraint Declarations
